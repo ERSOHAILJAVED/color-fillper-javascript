@@ -1,0 +1,21 @@
+body{
+    /* background-color: yellowgreen; */
+}
+
+#colorbtn{
+    height: 34px;
+    margin: auto;
+}
+
+#heading{
+  display: inline-block;
+  margin: auto;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    /* background-color: tomato; */
+    height: 100vh;
+    /* margin-top: 100px; */
+}
